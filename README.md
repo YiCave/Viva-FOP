@@ -29,21 +29,25 @@ The code is organized into inner static classes within the main class file:
 ---
 
 ## 📂 Features Implemented
+Student 1:
+### Key Points:
+StudentNode class:
+Data storage: Holds all student info—IDs, personal, address segments, programme, CGPA.
 
-- Add, delete, and view student records in a Binary Search Tree.
-- Search students by:
-  - Exact Matric ID
-  - Full/Partial Name
-  - Programme
-  - CGPA range
-- Sort student list by multiple fields:
-  - Matric ID, Name, Address, Programme, CGPA (ascending/descending)
-- Compare the efficiency of different sorting algorithms.
-- Recursively count students by various conditions and calculate CGPA averages.
-- Calculate BST balance factor (height difference).
-- Load and save student data from/to CSV files.
-- Detect and prevent duplicate entries.
-- Provide Undo/Redo functionality for recent operations.
+UUID (userID): Generates a universal unique ID for each record—useful even if matricID changes.
+
+left, right pointers: Link to the left and right child nodes in your BST.
+
+Constructor: Initializes fields and ensures the node starts without children.
+
+More details: 
+
+Student 2: https://docs.google.com/document/d/1KxDgFjrZCCxNmYtsc05okg5CLOrvHR_G24eAHqrZ4w8/edit?usp=sharing
+Student 3: https://docs.google.com/document/d/1EhLb0ddmGn32eJt70WWIoHv8cUdChdL9pl9riikxfMI/edit?usp=sharing
+Student 4: https://docs.google.com/document/d/1V0RpJqGO5t3GwyO83etIqDojpQ9-FcqhBOtbtQiVjhE/edit?tab=t.0
+Student 5: https://docs.google.com/document/d/1b5O2qge8f6a9zvTx7RZu6JKoX3jTro90HL6edC7_B5I/edit?usp=sharing
+Student 6: https://docs.google.com/document/d/1zA1SGFusDFz7hwY7csChBEHrSBa_D49iJlx-dxlyfdw/edit?usp=sharing
+
 
 ## Chatgpt reflection
 Embarking on the FSKTM Student Enrollment System project was a significant learning milestone for our group. The assignment required us to collaboratively design, develop, and integrate a complete student record system using Java, showcasing our understanding of core data structure concepts—especially binary search trees, recursion, sorting, and file integration. Through this experience, we gained not only technical skills but also project coordination and modular software design knowledge.
