@@ -6,6 +6,8 @@ The FSKTM Student Enrollment System is a Java-based console application that sim
 The system is modularly developed by 6 group members, where each person is responsible for one key functional component. The code is organized in a single Java class: `FSKTMStudentEnrollment.java`.
 
 ## Group Members & Task Distribution
+| Member Name           | Matric ID     | Task |
+|-----------------------|---------------|------|
 | Student 1: Choon Yi Keith | 24004553/1 | Student Records Storage (Binary Search Tree implementation) |
 | Student 2: Ong Yi Hao     | 24004516/1 | Student Search Engine (Exact/Partial/Range search functions) |
 | Student 3: Chan Yi Ern    | 24004495/1 | Student Sorting Algorithms (Multi-field sorting and performance comparison) |
