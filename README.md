@@ -40,7 +40,7 @@ left, right pointers: Link to the left and right child nodes in your BST.
 
 Constructor: Initializes fields and ensures the node starts without children.
 
-More details: 
+More details: https://docs.google.com/document/d/13n46YckwDmVyOaNpIm1m77KxVj7TAlw3ZljmGoaQ4lE/edit?usp=sharing
 
 Student 2: https://docs.google.com/document/d/1KxDgFjrZCCxNmYtsc05okg5CLOrvHR_G24eAHqrZ4w8/edit?usp=sharing
 Student 3: https://docs.google.com/document/d/1EhLb0ddmGn32eJt70WWIoHv8cUdChdL9pl9riikxfMI/edit?usp=sharing
